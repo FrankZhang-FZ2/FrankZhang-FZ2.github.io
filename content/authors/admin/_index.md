@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Qilin Zhang (张启琳)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chi-lin Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Qilin Zhang  
+last_name: Zhang
 
 # Status emoji
 status:
