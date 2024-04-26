@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Qilin Zhang
+title: Qilin (Frank) Zhang
 
-# Chinese name (ignore the name pronounce)
+# name_pronunciation (ignore the name pronounce)
 name_pronunciation: 张启琳      
 
 # Full name (for SEO)
