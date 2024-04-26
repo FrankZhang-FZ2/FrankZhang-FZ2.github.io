@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Qilin Zhang (张启琳)
+title: Qilin Zhang
 
-# Name pronunciation (optional)
-name_pronunciation: Chi-lin Zhang      
+# Chinese name (ignore the name pronounce)
+name_pronunciation: 张启琳      
 
 # Full name (for SEO)
 first_name: Qilin 
