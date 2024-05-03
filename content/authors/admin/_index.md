@@ -6,8 +6,8 @@ title: Qilin Zhang (张启琳)
 name_pronunciation:       
 
 # Full name (for SEO)
-first_name: Qilin 
-last_name: Zhang
+first_name:  
+last_name: 
 
 # Status emoji
 status:
