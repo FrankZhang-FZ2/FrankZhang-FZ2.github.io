@@ -14,7 +14,7 @@ date: '2024-10-09'
 publishDate: '2025-07-30T18:42:55.246175Z'
 publication_types:
 - article-journal
-featured: TRUE
+featured: FALSE
 publication: '*Current Addiction Reports*'
 doi: 10.1007/s40429-024-00608-5
 abstract: What does it mean to be a good thinker? Which virtues work together in someone

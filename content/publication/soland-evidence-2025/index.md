@@ -11,6 +11,7 @@ publishDate: '2025-07-30T18:42:55.262901Z'
 publication_types:
 - article-journal
 doi: 10.1080/00273171.2024.2444955
+featured: true
 abstract: Interest in identifying latent growth profiles to support the psychological
   and social-emotional development of individuals has translated into the widespread
   use of growth mixture models (GMMs). In most cases, GMMs are based on scores from

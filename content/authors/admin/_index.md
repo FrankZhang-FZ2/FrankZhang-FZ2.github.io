@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Qilin Zhang (张启琳)
+title: Qilin Zhang 
 
 # name_pronunciation (ignore the name pronounce)
-name_pronunciation: Chi-lin       
+name_pronunciation: (张启琳)       
 
 # Full name (for SEO)
 first_name: Qilin
@@ -29,10 +29,9 @@ bio: My research interests includes moral psychology, well-being, and quantitati
 
 # Interests to show in About widget
 interests:
-  - Moral and intellectual character development
-  - Morality in everyday life
+  - Moral psychology
   - Well-being
-  - Personality Measurements
+  - Personality psychology
   - Computational and Quantitative Methods
 
 # Education to show in About widget
@@ -76,7 +75,7 @@ social:
     link: https://docs.google.com/document/d/1DYIO2hMDsIpMX6axwm3gDKglpFWBTCePmbh0-lT9-sQ/edit?tab=t.0
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Qilin Zhang received his BS from the University of Minnesota and his MA from Wake Forest. He is interested in leveraging the power of psychology research to add to the prosociality in society. His current research focuses on answering 3 general questions, 1) Who are the moral exemplars, how did they become so, and does their morality contribute to their well-being; 2) How to accurately measure moral (e.g. compassion, fairness, and respect) and intellectual traits (e.g. open-mindedness and intellectual charity); 3) When do people decide to change their moral and intellectual characters and how to promote them through interventions? When he's not tackling these head-scratchers, Qilin likes going on a good hike, playing basketball, hanging out with friends at car meets, playing some coop games, or sometimes going to karaoke.

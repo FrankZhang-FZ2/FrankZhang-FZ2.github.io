@@ -12,6 +12,7 @@ date: '2024-02-01'
 publishDate: '2024-04-26T20:37:07.975053Z'
 publication_types:
 - article-journal
+featured: true
 publication: '*Topoi*'
 doi: 10.1007/s11245-024-10028-9
 abstract: What does it mean to be a good thinker? Which virtues work together in someone
