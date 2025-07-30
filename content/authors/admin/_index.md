@@ -3,7 +3,7 @@
 title: Qilin Zhang (张启琳)
 
 # name_pronunciation (ignore the name pronounce)
-name_pronunciation: Chi-lin Jahng      
+name_pronunciation: Chi-lin       
 
 # Full name (for SEO)
 first_name: Qilin
