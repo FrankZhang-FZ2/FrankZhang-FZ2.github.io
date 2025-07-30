@@ -42,43 +42,35 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: Research Program
+  - block: card
+    id: research-program
     content:
-      title: 'Research Program'
-      subtitle: 'Themes in Moral Psychology, Personality, and Development'
-      date_format: Jan 2006
+      title: Research Program
+      subtitle: Themes in Moral Psychology, Personality, and Development
       items:
-        - title: 'Moral Change and Socialization'
-          organization: 'Understanding how people revise their moral beliefs'
-          date_start: ''
-          date_end: ''
-          description: 'This line of work investigates when, how, and why people revise their views on right and wrong, and how these shifts unfold over time.'
-          url: '/research/moral-change/'
-          #image: 'media/research/moral_change.jpg'
+        - title: Moral Change and Socialization
+          subtitle: Understanding how people revise their moral beliefs
+          description: This line of work investigates when, how, and why people revise their views on right and wrong, and how these shifts unfold over time.
+          url: /research/moral-change/
+          image: media/research/moral_change.jpg
 
-        - title: 'Virtue Tradeoffs and Everyday Dilemmas'
-          organization: 'Navigating conflicting moral ideals'
-          date_start: ''
-          date_end: ''
-          description: 'Explores how people balance conflicting virtues like honesty vs. kindness in real-life decisions using experience sampling, experiments, and computational modeling.'
-          url: '/research/virtue-tradeoffs/'
-          #image: 'media/research/virtue_tradeoffs.jpg'
+        - title: Virtue Tradeoffs and Everyday Dilemmas
+          subtitle: Navigating conflicting moral ideals
+          description: Explores how people balance conflicting virtues like honesty vs. kindness in real-life decisions using experience sampling, experiments, and computational modeling.
+          url: /research/virtue-tradeoffs/
+          image: media/research/virtue_tradeoffs.jpg
 
-        - title: 'Personality and Moral Character'
-          organization: 'Linking stable traits with moral behavior'
-          date_start: ''
-          date_end: ''
-          description: 'Examines how traits like patience, humility, and conscientiousness relate to moral choices, character development, and well-being.'
-          url: '/research/personality-morality/'
-          #image: 'media/research/personality_morality.jpg'
+        - title: Personality and Moral Character
+          subtitle: Linking stable traits with moral behavior
+          description: Examines how traits like patience, humility, and conscientiousness relate to moral choices, character development, and well-being.
+          url: /research/personality-morality/
+          image: media/research/personality_morality.jpg
 
-        - title: 'Moral Influence in Relationships'
-          organization: 'How friends and social contexts shape values'
-          date_start: ''
-          date_end: ''
-          description: 'Investigates how peers shape moral beliefs and behaviors through influence, conversation, and shared experience.'
-          url: '/research/moral-influence/'
-          #image: 'media/research/moral_influence.jpg'
+        - title: Moral Influence in Relationships
+          subtitle: How friends and social contexts shape values
+          description: Investigates how peers shape moral beliefs and behaviors through influence, conversation, and shared experience.
+          url: /research/moral-influence/
+          image: media/research/moral_influence.jpg
     design:
       columns: '2'
   - block: collection
