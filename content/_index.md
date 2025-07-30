@@ -52,25 +52,25 @@ sections:
           subtitle: Understanding how people revise their moral beliefs
           description: This line of work investigates when, how, and why people revise their views on right and wrong, and how these shifts unfold over time.
           url: /research/moral-change/
-          image: media/research/moral_change.jpg
+          #image: media/research/moral_change.jpg
 
         - title: Virtue Tradeoffs and Everyday Dilemmas
           subtitle: Navigating conflicting moral ideals
           description: Explores how people balance conflicting virtues like honesty vs. kindness in real-life decisions using experience sampling, experiments, and computational modeling.
           url: /research/virtue-tradeoffs/
-          image: media/research/virtue_tradeoffs.jpg
+          #image: media/research/virtue_tradeoffs.jpg
 
         - title: Personality and Moral Character
           subtitle: Linking stable traits with moral behavior
           description: Examines how traits like patience, humility, and conscientiousness relate to moral choices, character development, and well-being.
           url: /research/personality-morality/
-          image: media/research/personality_morality.jpg
+          #image: media/research/personality_morality.jpg
 
         - title: Moral Influence in Relationships
           subtitle: How friends and social contexts shape values
           description: Investigates how peers shape moral beliefs and behaviors through influence, conversation, and shared experience.
           url: /research/moral-influence/
-          image: media/research/moral_influence.jpg
+          #image: media/research/moral_influence.jpg
     design:
       columns: '2'
   - block: collection
